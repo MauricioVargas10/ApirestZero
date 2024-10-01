@@ -19,5 +19,7 @@ if(array_filter($array)[2]=="cursos"){
     }
 }
 }
+
+////////* CRUD --> Create Read Update Delete *///////
 }
 ?>
